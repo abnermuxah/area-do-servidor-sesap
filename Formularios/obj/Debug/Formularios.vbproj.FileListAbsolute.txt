@@ -1,0 +1,365 @@
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.vbprojAssemblyReference.cache
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.Resources.resources
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.Principal.aspx.resources
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.Visualizador.aspx.resources
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.vbproj.GenerateResource.cache
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.vbproj.CoreCompileInputs.cache
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Formularios.dll.config
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Formularios.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Formularios.pdb
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\WebForms_Basic.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\csc.exe
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\csc.exe.config
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\csc.rsp
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\csi.exe
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\csi.exe.config
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\csi.rsp
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.AppContext.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Console.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.IO.Compression.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Net.Http.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.ValueTuple.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\vbc.exe
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\vbc.exe.config
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\vbc.rsp
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\VBCSCompiler.exe
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Antlr3.Runtime.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Classes.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.Shared.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.Web.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Newtonsoft.Json.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Net.Http.Formatting.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Helpers.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Http.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Http.WebHost.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Mvc.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Optimization.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Razor.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Webpages.Deployment.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Webpages.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Webpages.Razor.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\WebGrease.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportSource.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\stdole.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Classes.pdb
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Classes.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Optimization.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Newtonsoft.Json.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Antlr3.Runtime.pdb
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Razor.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Webpages.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Webpages.Deployment.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Webpages.Razor.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Helpers.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Mvc.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Net.Http.Formatting.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Http.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\System.Web.Http.WebHost.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.vbproj.CopyComplete
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\WebForms_Basic.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.pdb
+C:\Users\franciscosales\source\repos\MEURHSESAP\Formularios\obj\Debug\Formularios.MudarSenha.resources
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Formularios.dll.config
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Formularios.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Formularios.pdb
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\WebForms_Basic.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\csc.exe.config
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\csc.rsp
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\csi.exe
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\csi.exe.config
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\csi.rsp
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.AppContext.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Console.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Globalization.Calendars.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.IO.Compression.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.IO.FileSystem.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Net.Http.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Net.Sockets.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.ValueTuple.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Xml.XPath.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\vbc.exe.config
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\vbc.rsp
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Classes.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Microsoft.ScriptManager.WebForms.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Webpages.Deployment.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Webpages.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Webpages.Razor.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\WebGrease.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\stdole.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Classes.pdb
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Classes.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Webpages.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Webpages.Deployment.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Webpages.Razor.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Web.Optimization.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Web.Razor.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Web.Webpages.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Web.Helpers.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Web.Mvc.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Web.Http.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.vbprojAssemblyReference.cache
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.MudarSenha.resources
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.Resources.resources
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.Principal.aspx.resources
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.Visualizador.aspx.resources
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.vbproj.GenerateResource.cache
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.vbproj.CopyComplete
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.dll
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\WebForms_Basic.xml
+C:\inetpub\wwwroot\MEURHSESAP\Formularios\obj\Debug\Formularios.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Formularios.dll.config
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Formularios.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Formularios.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\WebForms_Basic.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\csc.exe
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\csc.exe.config
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\csc.rsp
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\csi.exe
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\csi.exe.config
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\csi.rsp
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.AppContext.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Console.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.IO.Compression.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Net.Http.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.ValueTuple.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\vbc.exe
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\vbc.exe.config
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\vbc.rsp
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\VBCSCompiler.exe
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Antlr3.Runtime.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Classes.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Newtonsoft.Json.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Net.Http.Formatting.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Helpers.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Http.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Http.WebHost.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Mvc.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Optimization.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Razor.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Webpages.Deployment.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Webpages.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Webpages.Razor.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\WebGrease.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\stdole.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Classes.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Classes.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Optimization.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Newtonsoft.Json.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Antlr3.Runtime.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Razor.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Webpages.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Webpages.Deployment.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Webpages.Razor.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Helpers.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Mvc.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Net.Http.Formatting.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Http.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\System.Web.Http.WebHost.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.vbprojAssemblyReference.cache
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.MudarSenha.resources
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.Resources.resources
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.Principal.aspx.resources
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.Visualizador.aspx.resources
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.vbproj.GenerateResource.cache
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.vbproj.CoreCompileInputs.cache
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.vbproj.CopyComplete
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\WebForms_Basic.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Formularios\obj\Debug\Formularios.pdb

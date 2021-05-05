@@ -1,0 +1,30 @@
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\bin\Debug\Classes.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\bin\Debug\Classes.pdb
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\bin\Debug\Classes.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\obj\Debug\Resources.resources
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\obj\Debug\Classes.vbproj.GenerateResource.cache
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\obj\Debug\Classes.vbproj.CoreCompileInputs.cache
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\obj\Debug\Classes.dll
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\obj\Debug\Classes.xml
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\obj\Debug\Classes.pdb
+C:\inetpub\wwwroot\MEURHSESAP\Classes\bin\Debug\Classes.dll
+C:\inetpub\wwwroot\MEURHSESAP\Classes\bin\Debug\Classes.pdb
+C:\inetpub\wwwroot\MEURHSESAP\Classes\bin\Debug\Classes.xml
+C:\inetpub\wwwroot\MEURHSESAP\Classes\obj\Debug\Classes.vbprojAssemblyReference.cache
+C:\inetpub\wwwroot\MEURHSESAP\Classes\obj\Debug\Resources.resources
+C:\inetpub\wwwroot\MEURHSESAP\Classes\obj\Debug\Classes.vbproj.GenerateResource.cache
+C:\inetpub\wwwroot\MEURHSESAP\Classes\obj\Debug\Classes.vbproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\MEURHSESAP\Classes\obj\Debug\Classes.dll
+C:\inetpub\wwwroot\MEURHSESAP\Classes\obj\Debug\Classes.xml
+C:\inetpub\wwwroot\MEURHSESAP\Classes\obj\Debug\Classes.pdb
+C:\Users\franciscosales\source\repos\MEURHSESAP\Classes\obj\Debug\Classes.vbprojAssemblyReference.cache
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\bin\Debug\Classes.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\bin\Debug\Classes.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\bin\Debug\Classes.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\obj\Debug\Classes.vbprojAssemblyReference.cache
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\obj\Debug\Resources.resources
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\obj\Debug\Classes.vbproj.GenerateResource.cache
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\obj\Debug\Classes.vbproj.CoreCompileInputs.cache
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\obj\Debug\Classes.dll
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\obj\Debug\Classes.xml
+C:\Users\abner\OneDrive\Área de Trabalho\MEURHSESAP\Classes\obj\Debug\Classes.pdb

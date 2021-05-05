@@ -1,0 +1,120 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Menu.master.vb" Inherits="Formularios.Menu" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/tree.css">
+    <link rel="shortcut icon" href="assets/img/susIcon.svg" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/6aed1488f5.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container-fluid  text-light cabecalho azulSesap sombra mt-0">
+        <div class="container p-1 row">
+            <div class="col-lg-1 py-1">
+                <img src="./assets/img/susIcon.svg" width="40px">
+            </div>
+            <div class="row col-lg-11 py-1">
+                <div>
+                    <h2 > Meu Portal RH </h2> 
+                </div>
+                <div>
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="container-fluid bg-light">
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-expand-sm navbar-light col-5 col-sm-8 col-md-8 col-lg-8">
+                    <button class="navbar-toggler mr-auto" type="button" data-toggle="collapse" data-target="#navbarNav"
+                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="MenuPrincipal.aspx">Início</a>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="#" id="LinkCadastro" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">Cadastro
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                        <a class="dropdown-item" href="Atualizacao.aspx">Atualização Cadastral</a>
+                                        <a class="dropdown-item" href="FichaFuncional.aspx">Ficha Funcional</a>
+                                        <a class="dropdown-item" href="EscalaPlantao.aspx">Escala Plantão</a>
+                                </div>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="#" id="linkFinanceiro" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">Financeiro</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="ContraCheque.aspx">Contra-Cheque</a>
+                                    <a class="dropdown-item" href="Produtividade.aspx">Produtividade</a>
+
+                                </div>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="#" id="crhDropdown" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">
+                                    Ajuda
+                                </a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="estruturaCrh.aspx">Ouvidoria</a>
+                                    <a class="dropdown-item" href="#">Chat</a>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+                </nav>
+                
+            </div>
+        </div>
+
+    </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                             <asp:literal id="Literal1" runat="server"></asp:literal>
+            </asp:ContentPlaceHolder>
+        </div>
+        <div>
+
+        </div>
+        <footer class="container-fluid mb-0 azulSesap text-light sombra" style="position: absolute;bottom: 0px; height: 50px;">
+        <div class="row">
+            <div class="col-lg-1 py-2">
+                <img src="./assets/img/iconesEstado.png" width="50px">
+            </div>
+            <div class="row col-lg-10 py-2">
+
+                <div class="col-lg-8 pt-3">
+                    <p>CGTES - COORDENADORIA GESTÃO DO TRABALHO E EDUCAÇÃO EM SAÚDE - Sesap/RN</p>
+                </div>
+                <div class="col-lg-4 pt-3" style="text-align:right">
+                    <p>(84) 3232-2666 | 3232-2839 >suiirh@gmail.com</p>
+                </div>
+               
+            </div>
+        </div>
+            
+    </footer>
+        <P><asp:literal id="litJava" runat="server"></asp:literal></P>
+    </form>
+     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
+
+

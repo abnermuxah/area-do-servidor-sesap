@@ -1,0 +1,105 @@
+
+.cabecalho{
+    background-image: url(../img/bg_cabecalho.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: cover ;
+}
+.migalhas{
+    height: 40px;
+}
+.azulSesap{
+    background-color: #0080c7;
+}
+.sombra{
+    box-shadow:inset 3px 0px 20px 5px rgba(0, 0, 0, 0.3);
+}
+.w100{
+    width: 100%;
+}
+.conteudo {
+    min-height: 72vh;
+    scroll-behavior: smooth;
+}
+
+.tree {
+    margin: 0 auto;
+}
+
+.treeContainer {
+    overflow-x: auto;
+    height: 40vh;
+}
+
+.mapaContainer {
+    overflow-x: auto;
+}
+
+@media (max-width: 769px) { 
+    .cabecalho{
+        background-image: none;
+    }
+
+    .mapa {
+        min-width: 760px;
+        margin: 0 auto;
+    }
+    .tree {
+        min-width: 760px;
+        margin: 0 auto;
+    }
+ }
+
+
+
+
+#svg-map path {
+    fill: #0080c7;
+}
+
+#svg-map .rn {
+    fill: #ffd800;
+}
+
+#svg-map .nordeste {
+    fill: #3e6bc8;
+}
+#svg-map .norte {
+    fill: #234ca0;
+}
+#svg-map .centro-oeste {
+    fill: #4a5978;
+}
+#svg-map .sudeste{
+    fill: #3689b7;
+}
+#svg-map .sul {
+    fill: #144763;
+}
+#svg-map text {
+    fill: #fff;
+    font: 12px Arial-BoldMT, sans-serif;
+    cursor: pointer;
+}
+
+#svg-map a {
+    text-decoration: none;
+}
+
+    #svg-map a:hover {
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+        #svg-map a:hover path {
+            fill: #003399 !important;
+        }
+
+#svg-map .circle {
+    fill: #66ccff;
+}
+
+#svg-map a:hover .circle {
+    fill: #003399 !important;
+    cursor: pointer;
+}
